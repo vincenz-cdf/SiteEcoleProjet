@@ -23,5 +23,23 @@ include("affichagebar.php");
 	<div class="paragraphe">
 		<h5> L'implication logique des propositions P et Q est notée « P => Q » et se lit : « P implique Q ».</h5>		
 		<img src="images/veriteimp.PNG">
+	</div>	
+	<div class="paragraphe">
+		<h5> La négation de la conjonction de P et Q est notée « P | Q ».</h5>		
+	</div>				
+	<div class="paragraphe">
+		<h5> La négation de la disjonction de P et Q est notée « P ↓ Q ».</h5>
+	</div>				
+	<div class="paragraphe">
+		<h5>Voici quelque cas incroyable !</h5>
+		<img src="images/veriteexc1.PNG">
+		<br/>
+		<br/>
+		<br/>
+		<img src="images/veriteexc2.PNG">
+		<br/>
+		<br/>
+		<br/>
+		<img src="images/veriteexc4.PNG">
 	</div>				
 </div>
